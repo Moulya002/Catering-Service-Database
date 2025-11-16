@@ -66,5 +66,7 @@ The system contains the following major tables (schema based on project descript
 - 🔹 Improved operational data accessibility by **40%**  
 - 🔹 Automated reporting for event and payroll summaries  
 - 🔹 Delivered 100% on-time project completion as team lead  
-- 🔹 Received **Best Presentation Award**  
+- 🔹 Received **Best Presentation Award**
+
+---
 
